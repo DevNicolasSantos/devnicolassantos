@@ -1,6 +1,6 @@
 ## Olá, me chamo Nícolas Santos
 
-Meu nome é Nícolas Santos, sou um desenvolvedor de web com mais de 7 meses de experiência em diferentes funções. Sou um aprendiz apaixonado em programação e sempre estou em busca de novos desafios e oportunidades para desenvolver minhas habilidades. 🤠👌
+Meu nome é Nícolas Santos, sou um desenvolvedor que sempre esta buscando melhorar suas experiência em diferentes funções. Sou um aprendiz apaixonado em programação e sempre estou em busca de novos desafios e oportunidades para desenvolver minhas habilidades. 🤠👌
 
 ## 🎯 &nbsp;Minhas atividades no Github:
 
