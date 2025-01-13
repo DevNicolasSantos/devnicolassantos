@@ -22,5 +22,5 @@ Meu nome é Nícolas Santos, sou um desenvolvedor de web com mais de 7 meses de 
   <a href="https://instagram.com/nicolaskyadi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <div>
   
-![Discord](https://img.shields.io/badge/Discord-devnicolassantos-5865f2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-returnsthebest-5865f2?style=for-the-badge&logo=discord&logoColor=white)
 
