@@ -26,6 +26,7 @@ Currently studying java and diving deep into full-stack developemnt, I enjoy ble
 ### 🧩 Frameworks, Runtimes & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
 
 ### 🗄️ Databases
