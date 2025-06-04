@@ -1,14 +1,14 @@
-<h1 align="center">👋 Hello, I'm Leonardo</h1>
-<h3 align="center">🎓 Robotics Student • 💻 Full-Stack Developer</h3>
+<h1 align="center">👋 Hello, I'm Nicolas</h1>
+<h3 align="center">🎓 Java Student • 💻 Full-Stack Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 I'm a full-stack developer passionate about solving problems through automation and technology.  
-Currently studying Robotics and diving deep into cybersecurity, I enjoy blending creativity with performance.
+Currently studying java and diving deep into full-stack developemnt, I enjoy blending creativity with performance.
 
-- 🎂 18 years old  
+- 🎂 17 years old  
 - 🧠 Focused on **web development, automation, and defensive security**  
 - 🔍 Constantly exploring the world where **hardware meets software**
 
@@ -18,9 +18,7 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
 
 ### 🚀 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
@@ -66,8 +64,8 @@ Currently studying Robotics and diving deep into cybersecurity, I enjoy blending
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMS5413&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMS5413&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevNicolasSantos&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNicolasSantos&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%">
 </p>
 
 <p align="center">
