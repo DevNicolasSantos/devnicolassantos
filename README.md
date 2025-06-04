@@ -69,7 +69,7 @@ Currently studying java and diving deep into full-stack developemnt, I enjoy ble
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LMS5413&theme=dark&hide_border=true" alt="GitHub Streak" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNicolasSantos&theme=dark&hide_border=true" alt="GitHub Streak" width="70%">
 </p>
 
 <p align="center">
@@ -81,10 +81,10 @@ Currently studying java and diving deep into full-stack developemnt, I enjoy ble
 ## 🌟 Let's Connect!
 
 <p align="center">
-  <a href="https://x.com/LMS5413" target="_blank">
+  <a href="https://x.com/DevNicolasSantos" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  <a href="https://discord.gg/users/846782948916592664" target="_blank">
+  <a href="DevNicolasSantos" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
